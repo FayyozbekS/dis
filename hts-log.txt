@@ -1,0 +1,489 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Nov 2021 21:44:40 at https://dispatch.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dispatch.me/ -O1 "D:\MFP\projects\bst\tada2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:44:42	Warning: 	Note: due to https://dispatch.me remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:48:18	Warning: 	Moved Permanently for https://dispatch.me/?p=12
+21:48:18	Warning: 	File has moved from https://dispatch.me/?p=12 to https://dispatch.me/why-dispatch/how-it-works/
+21:48:18	Warning: 	Moved Permanently for https://dispatch.me/?p=14
+21:48:18	Warning: 	File has moved from https://dispatch.me/?p=14 to https://dispatch.me/why-dispatch/customer-stories/
+21:48:22	Warning: 	Moved Permanently for https://dispatch.me/?p=14914
+21:48:22	Warning: 	File has moved from https://dispatch.me/?p=14914 to https://dispatch.me/roi-calculator/
+21:48:29	Warning: 	Moved Permanently for https://dispatch.me/?p=24
+21:48:29	Warning: 	File has moved from https://dispatch.me/?p=24 to https://dispatch.me/solutions/by-industry/franchise-services/
+21:48:31	Warning: 	Moved Permanently for https://dispatch.me/?p=26
+21:48:31	Warning: 	File has moved from https://dispatch.me/?p=26 to https://dispatch.me/solutions/by-industry/home-warranty/
+21:48:33	Warning: 	Moved Permanently for https://dispatch.me/?p=28
+21:48:33	Warning: 	File has moved from https://dispatch.me/?p=28 to https://dispatch.me/solutions/by-industry/manufacturer-directed-services/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=30
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=30 to https://dispatch.me/solutions/by-industry/retail-directed-services/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=32
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=32 to https://dispatch.me/solutions/by-industry/home-property-services/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=14798
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=14798 to https://dispatch.me/solutions/by-industry/claims/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=34
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=34 to https://dispatch.me/solutions/by-product/platform/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=36
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=36 to https://dispatch.me/solutions/by-product/field-service-tools/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=38
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=38 to https://dispatch.me/solutions/by-product/contractor-engagement/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=40
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=40 to https://dispatch.me/solutions/by-product/engage/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=14014
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=14014 to https://dispatch.me/solutions/by-product/communicate/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=14005
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=14005 to https://dispatch.me/solutions/by-product/book/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=42
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=42 to https://dispatch.me/solutions/by-need/visibility/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=44
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=44 to https://dispatch.me/solutions/by-need/lead-outcome/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=46
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=46 to https://dispatch.me/solutions/by-need/customer-experience/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=734
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=734 to https://dispatch.me/solutions/service-providers/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=14322
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=14322 to https://dispatch.me/resources/integrations/
+21:48:34	Warning: 	Moved Permanently for https://dispatch.me/?p=52
+21:48:34	Warning: 	File has moved from https://dispatch.me/?p=52 to https://dispatch.me/resources/events/
+21:50:03	Warning: 	Moved Permanently for https://dispatch.me/?p=58
+21:50:03	Warning: 	File has moved from https://dispatch.me/?p=58 to https://dispatch.me/about/team/
+21:50:03	Warning: 	Moved Permanently for https://dispatch.me/?p=60
+21:50:03	Warning: 	File has moved from https://dispatch.me/?p=60 to https://dispatch.me/about/press/
+21:50:03	Warning: 	Moved Permanently for https://dispatch.me/?p=14661
+21:50:03	Warning: 	File has moved from https://dispatch.me/?p=14661 to https://dispatch.me/about/careers/
+21:50:03	Warning: 	Moved Permanently for https://dispatch.me/?p=64
+21:50:03	Warning: 	File has moved from https://dispatch.me/?p=64 to https://dispatch.me/request-a-demo/
+21:50:03	Warning: 	Moved Permanently for https://dispatch.me/?p=15006
+21:50:03	Warning: 	File has moved from https://dispatch.me/?p=15006 to https://dispatch.me/case-study-flo-by-moen-dispatch/
+21:50:06	Warning: 	Moved Permanently for https://dispatch.me/?p=15016
+21:50:06	Warning: 	File has moved from https://dispatch.me/?p=15016 to https://dispatch.me/dispatch-digest-dispatch-academy/
+21:50:17	Warning: 	Moved Permanently for https://dispatch.me/?p=14990
+21:50:17	Warning: 	File has moved from https://dispatch.me/?p=14990 to https://dispatch.me/case-study-how-dispatch-helped-keyme-differentiate-with-customer-experience/
+21:50:17	Warning: 	Moved Permanently for https://dispatch.me/?p=14980
+21:50:17	Warning: 	File has moved from https://dispatch.me/?p=14980 to https://dispatch.me/dispatch-digest-getting-the-most-out-of-manage/
+21:50:17	Warning: 	Moved Permanently for https://dispatch.me/?p=7522
+21:50:17	Warning: 	File has moved from https://dispatch.me/?p=7522 to https://dispatch.me/how-to-make-your-customers-feel-extremely-informed-and-incredibly-valued/
+21:50:17	Warning: 	Moved Permanently for https://dispatch.me/?p=11581
+21:50:17	Warning: 	File has moved from https://dispatch.me/?p=11581 to https://dispatch.me/how-digitizing-the-last-mile-customer-experience-pays-off-for-your-home-warranty-brand/
+21:50:27	Warning: 	Moved Permanently for https://dispatch.me/?p=3
+21:50:27	Warning: 	File has moved from https://dispatch.me/?p=3 to https://dispatch.me/privacy-policy/
+21:50:29	Warning: 	Moved Permanently for https://dispatch.me/?p=302
+21:50:29	Warning: 	File has moved from https://dispatch.me/?p=302 to https://dispatch.me/terms-of-service/
+21:50:31	Warning: 	Moved Permanently for https://dispatch.me/?p=298
+21:50:31	Warning: 	File has moved from https://dispatch.me/?p=298 to https://dispatch.me/about/contact-us/
+21:50:33	Warning: 	Moved Permanently for https://dispatch.me/?p=14710
+21:50:33	Warning: 	File has moved from https://dispatch.me/?p=14710 to https://dispatch.me/dispatch-and-bloomin-blinds/
+21:50:39	Warning: 	Moved Permanently for https://dispatch.me/?p=15080
+21:50:39	Warning: 	File has moved from https://dispatch.me/?p=15080 to https://dispatch.me/request-a-demo-franchise/
+21:50:39	Warning: 	Moved Permanently for https://dispatch.me/?p=15077
+21:50:39	Warning: 	File has moved from https://dispatch.me/?p=15077 to https://dispatch.me/request-a-demo-home-warranty/
+21:50:39	Warning: 	Moved Permanently for https://dispatch.me/?p=15074
+21:50:39	Warning: 	File has moved from https://dispatch.me/?p=15074 to https://dispatch.me/request-a-demo-manufacturing/
+21:51:08	Warning: 	Moved Permanently for https://dispatch.me/?p=14727
+21:51:08	Warning: 	File has moved from https://dispatch.me/?p=14727 to https://dispatch.me/vista-equity-partners-dispatch-technologies/
+21:51:13	Warning: 	Moved Permanently for https://dispatch.me/?p=14547
+21:51:13	Warning: 	File has moved from https://dispatch.me/?p=14547 to https://dispatch.me/attracting-new-talent-while-building-independent-service-provider-loyalty/
+21:51:16	Warning: 	Moved Permanently for https://dispatch.me/?p=14465
+21:51:16	Warning: 	File has moved from https://dispatch.me/?p=14465 to https://dispatch.me/how-to-ace-your-customer-and-service-provider-loyalty/
+21:51:28	Warning: 	Moved Permanently for https://dispatch.me/?p=9212
+21:51:28	Warning: 	File has moved from https://dispatch.me/?p=9212 to https://dispatch.me/how-superior-customer-experience-is-changing-the-home-service-industry/
+21:51:28	Warning: 	Moved Permanently for https://dispatch.me/?p=14920
+21:51:28	Warning: 	File has moved from https://dispatch.me/?p=14920 to https://dispatch.me/where-your-leads-are/
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/3/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/4/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/5/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/6/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/7/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/8/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/9/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/10/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/11/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/ben-barr/page/12/ (from https://dispatch.me/author/ben-barr/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/2/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/3/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/4/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/5/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/6/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/7/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/8/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/9/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/10/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/11/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/erin-meade/page/12/ (from https://dispatch.me/author/erin-meade/)
+21:54:30	Warning: 	Moved Permanently for https://dispatch.me/?p=1510
+21:54:30	Warning: 	File has moved from https://dispatch.me/?p=1510 to https://dispatch.me/the-importance-of-google-reviews-for-field-service-businesses/
+21:54:30	Error: 	"Not Found" (404) at link wordpress-test.dispatch.me/wp-content/uploads/2017/07/Google-Search-300x71.png (from https://dispatch.me/the-importance-of-google-reviews-for-field-service-businesses/)
+21:54:30	Error: 	"Not Found" (404) at link wordpress-test.dispatch.me/wp-content/uploads/2017/07/Google-Computer.png (from https://dispatch.me/the-importance-of-google-reviews-for-field-service-businesses/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/2/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/3/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/4/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/5/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/6/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/7/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/8/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/9/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/10/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/11/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/dispatch/page/12/ (from https://dispatch.me/author/dispatch/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/2/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/3/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/4/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/5/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/6/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/7/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/8/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/9/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/10/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/11/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Error: 	"Not Found" (404) at link https://dispatch.me/author/sam-robinson/page/12/ (from https://dispatch.me/author/sam-robinson/)
+21:54:30	Warning: 	Moved Permanently for https://dispatch.me/?p=14717
+21:54:30	Warning: 	File has moved from https://dispatch.me/?p=14717 to https://dispatch.me/dispatch-digest-5/
+21:54:30	Warning: 	Moved Permanently for https://dispatch.me/?p=14646
+21:54:30	Warning: 	File has moved from https://dispatch.me/?p=14646 to https://dispatch.me/dispatch-digest-4/
+21:54:30	Warning: 	Moved Permanently for https://dispatch.me/?p=14843
+21:54:30	Warning: 	File has moved from https://dispatch.me/?p=14843 to https://dispatch.me/retail-customer-loyalty-home-service/
+21:54:30	Warning: 	Moved Permanently for https://dispatch.me/?p=14846
+21:54:30	Warning: 	File has moved from https://dispatch.me/?p=14846 to https://dispatch.me/dispatch-digest-introducing-service-provider-profiles/
+21:54:30	Warning: 	Moved Permanently for https://dispatch.me/?p=14783
+21:54:30	Warning: 	File has moved from https://dispatch.me/?p=14783 to https://dispatch.me/dispatch-named-one-of-bostons-best-places-to-work/
+21:54:30	Warning: 	Moved Permanently for https://dispatch.me/?p=14764
+21:54:30	Warning: 	File has moved from https://dispatch.me/?p=14764 to https://dispatch.me/the-new-way-to-win-loyalty-for-hvac-manufacturers/
+21:54:31	Warning: 	Moved Permanently for https://dispatch.me/?p=14760
+21:54:31	Warning: 	File has moved from https://dispatch.me/?p=14760 to https://dispatch.me/building-products-building-partners/
+21:54:31	Warning: 	Moved Permanently for https://dispatch.me/?p=14758
+21:54:31	Warning: 	File has moved from https://dispatch.me/?p=14758 to https://dispatch.me/service-your-most-valuable-product/
+21:54:32	Warning: 	Moved Permanently for https://dispatch.me/?p=14633
+21:54:32	Warning: 	File has moved from https://dispatch.me/?p=14633 to https://dispatch.me/6-ways-to-keep-service-providers-and-customers-safe-during-covid-19/
+21:54:32	Warning: 	Moved Permanently for https://dispatch.me/?p=14600
+21:54:32	Warning: 	File has moved from https://dispatch.me/?p=14600 to https://dispatch.me/times-are-tough-heres-how-dispatch-can-help/
+21:54:32	Warning: 	Moved Permanently for https://dispatch.me/wp-content/uploads/2020/04/Service-Provider-Safety-Checklist-for-COVID-19-1-1.pdfhttp://
+21:54:32	Warning: 	Redirected link is identical because of 'URL Hack' option: https://dispatch.me/wp-content/uploads/2020/04/Service-Provider-Safety-Checklist-for-COVID-19-1-1.pdfhttp:// and https://dispatch.me/wp-content/uploads/2020/04/Service-Provider-Safety-Checklist-for-COVID-19-1-1.pdfhttp:/
+21:54:32	Warning: 	File has moved from https://dispatch.me/wp-content/uploads/2020/04/Service-Provider-Safety-Checklist-for-COVID-19-1-1.pdfhttp:// to https://dispatch.me/wp-content/uploads/2020/04/Service-Provider-Safety-Checklist-for-COVID-19-1-1.pdfhttp:/
+21:54:32	Warning: 	Moved Permanently for https://dispatch.me/?p=14593
+21:54:32	Warning: 	File has moved from https://dispatch.me/?p=14593 to https://dispatch.me/downloadable-checklist-service-provider-safety-for-covid-19/
+21:54:32	Warning: 	Moved Permanently for https://dispatch.me/?p=14587
+21:54:32	Warning: 	File has moved from https://dispatch.me/?p=14587 to https://dispatch.me/27-samara-toole-cmo-of-california-closets/
+21:54:32	Warning: 	Moved Permanently for https://dispatch.me/?p=14577
+21:54:32	Warning: 	File has moved from https://dispatch.me/?p=14577 to https://dispatch.me/webinar-in-3-to-build-or-to-buy/
+21:54:32	Warning: 	Moved Permanently for https://dispatch.me/?p=14574
+21:54:32	Warning: 	File has moved from https://dispatch.me/?p=14574 to https://dispatch.me/to-build-or-to-buy-4-questions-to-ask-before-deciding/
+21:54:33	Warning: 	Moved Permanently for https://dispatch.me/?p=14554
+21:54:33	Warning: 	File has moved from https://dispatch.me/?p=14554 to https://dispatch.me/7-hidden-costs-of-building-your-own-enterprise-software/
+21:54:33	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/2/ (from https://dispatch.me/author/folajimi/)
+21:54:35	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/3/ (from https://dispatch.me/author/folajimi/)
+21:54:36	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/4/ (from https://dispatch.me/author/folajimi/)
+21:54:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/5/ (from https://dispatch.me/author/folajimi/)
+21:54:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/6/ (from https://dispatch.me/author/folajimi/)
+21:54:39	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/7/ (from https://dispatch.me/author/folajimi/)
+21:54:39	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/8/ (from https://dispatch.me/author/folajimi/)
+21:54:40	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/9/ (from https://dispatch.me/author/folajimi/)
+21:54:41	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/10/ (from https://dispatch.me/author/folajimi/)
+21:54:41	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/11/ (from https://dispatch.me/author/folajimi/)
+21:54:41	Error: 	"Not Found" (404) at link https://dispatch.me/author/folajimi/page/12/ (from https://dispatch.me/author/folajimi/)
+21:54:41	Warning: 	Moved Permanently for https://dispatch.me/?p=10623
+21:54:41	Warning: 	File has moved from https://dispatch.me/?p=10623 to https://dispatch.me/dispatch-ranked-in-top-10-of-fastest-growing-companies-in-america/
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/tstewart/page/9/ (from https://dispatch.me/author/tstewart/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/tstewart/page/10/ (from https://dispatch.me/author/tstewart/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/tstewart/page/11/ (from https://dispatch.me/author/tstewart/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/tstewart/page/12/ (from https://dispatch.me/author/tstewart/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/2/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/3/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/4/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/5/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/6/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/7/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/8/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/9/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/10/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/11/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Error: 	"Not Found" (404) at link https://dispatch.me/author/bonnie-gibson/page/12/ (from https://dispatch.me/author/bonnie-gibson/)
+21:54:43	Warning: 	Moved Permanently for https://dispatch.me/?p=13510
+21:54:43	Warning: 	File has moved from https://dispatch.me/?p=13510 to https://dispatch.me/how-are-your-3rd-party-contractors-doing-heres-how-to-find-out/
+21:54:43	Warning: 	Moved Permanently for https://dispatch.me/?p=14923
+21:54:43	Warning: 	File has moved from https://dispatch.me/?p=14923 to https://dispatch.me/demo-form-blog/
+21:54:43	Warning: 	Moved Permanently for https://dispatch.me/?p=14580
+21:54:43	Warning: 	File has moved from https://dispatch.me/?p=14580 to https://dispatch.me/how-to-keep-your-service-providers-safe-from-covid-19/
+21:54:43	Warning: 	Moved Permanently for https://dispatch.me/?p=14564
+21:54:43	Warning: 	File has moved from https://dispatch.me/?p=14564 to https://dispatch.me/dispatch-digest-3/
+21:54:43	Warning: 	Moved Permanently for https://dispatch.me/?p=14558
+21:54:43	Warning: 	File has moved from https://dispatch.me/?p=14558 to https://dispatch.me/dispatch-digest-2/
+21:54:43	Warning: 	Moved Permanently for https://dispatch.me/?p=14507
+21:54:43	Warning: 	File has moved from https://dispatch.me/?p=14507 to https://dispatch.me/the-build-vs-buy-dilemma-a-qa-with-dispatchs-software-engineer-ii/
+21:54:44	Warning: 	Moved Permanently for https://dispatch.me/?p=14502
+21:54:44	Warning: 	File has moved from https://dispatch.me/?p=14502 to https://dispatch.me/why-i-joined-dispatch/
+21:54:46	Warning: 	Moved Permanently for https://dispatch.me/?p=14486
+21:54:46	Warning: 	File has moved from https://dispatch.me/?p=14486 to https://dispatch.me/dispatch-names-patrick-burns-ceo-founder-avi-goldberg-transitions-to-new-role-as-chief-strategy-officer/
+21:54:48	Warning: 	Moved Permanently for https://dispatch.me/?p=14471
+21:54:48	Warning: 	File has moved from https://dispatch.me/?p=14471 to https://dispatch.me/five-tips-for-handling-negative-customer-reviews/
+21:54:49	Warning: 	Moved Permanently for https://dispatch.me/?p=14632
+21:54:49	Warning: 	File has moved from https://dispatch.me/?p=14632 to https://dispatch.me/27-kelsey-stuart-ceo-of-bloomin-blinds/
+21:54:51	Warning: 	Moved Permanently for https://dispatch.me/?p=13831
+21:54:51	Warning: 	File has moved from https://dispatch.me/?p=13831 to https://dispatch.me/4-customer-experience-trends-home-service-brands-should-follow-in-2020/
+21:54:53	Warning: 	Moved Permanently for https://dispatch.me/?p=13283
+21:54:53	Warning: 	File has moved from https://dispatch.me/?p=13283 to https://dispatch.me/do-you-have-complete-visibility-into-your-dealer-network/
+21:54:54	Warning: 	Moved Permanently for https://dispatch.me/?p=13248
+21:54:54	Warning: 	File has moved from https://dispatch.me/?p=13248 to https://dispatch.me/dispatch-podcast-mark-kovich-essential-cabinet-group/
+21:54:54	Warning: 	Moved Permanently for https://dispatch.me/?p=13117
+21:54:54	Warning: 	File has moved from https://dispatch.me/?p=13117 to https://dispatch.me/how-service-brands-can-survive-and-thrive-in-the-do-it-for-me-economy/
+21:54:58	Warning: 	Moved Permanently for https://dispatch.me/?p=12859
+21:54:58	Warning: 	File has moved from https://dispatch.me/?p=12859 to https://dispatch.me/smart-home-trends-are-key-to-modernizing-home-services/
+21:54:59	Error: 	"Not Found" (404) at link https://dispatch.me/wp-content/uploads/2020/01/Family-Product-1.1-300x146.png (from https://dispatch.me/smart-home-trends-are-key-to-modernizing-home-services/)
+21:55:01	Warning: 	Moved Permanently for https://dispatch.me/?p=12486
+21:55:01	Warning: 	File has moved from https://dispatch.me/?p=12486 to https://dispatch.me/6-steps-for-creating-the-best-in-home-customer-experience/
+21:55:05	Warning: 	Moved Permanently for https://dispatch.me/?p=12237
+21:55:05	Warning: 	File has moved from https://dispatch.me/?p=12237 to https://dispatch.me/how-dispatch-centralizes-a-disparate-franchise-network/
+21:55:07	Warning: 	Moved Permanently for https://dispatch.me/?p=12140
+21:55:07	Warning: 	File has moved from https://dispatch.me/?p=12140 to https://dispatch.me/dispatch-digest/
+21:55:11	Warning: 	Moved Permanently for https://dispatch.me/?p=11137
+21:55:11	Warning: 	File has moved from https://dispatch.me/?p=11137 to https://dispatch.me/afraid-to-go-mobile-5-franchises-that-are-winning-big-with-mobile-apps/
+21:55:19	Warning: 	Moved Permanently for https://dispatch.me/?p=10214
+21:55:19	Warning: 	File has moved from https://dispatch.me/?p=10214 to https://dispatch.me/dispatch-bolsters-management-team-with-3-new-executives/
+21:55:19	Warning: 	Moved Permanently for https://dispatch.me/?p=10218
+21:55:19	Warning: 	File has moved from https://dispatch.me/?p=10218 to https://dispatch.me/could-the-future-of-home-service-be-alexa-fix-my-fridge/
+21:55:20	Warning: 	Moved Permanently for https://dispatch.me/?p=10120
+21:55:20	Warning: 	File has moved from https://dispatch.me/?p=10120 to https://dispatch.me/better-compliance-and-unbeatable-customer-experience/
+21:55:21	Error: 	"Not Found" (404) at link www.dispatch.154web.com/wp-content/uploads/2020/01/Screen-Shot-2019-06-14-at-9.25.31-AM.png (from https://dispatch.me/better-compliance-and-unbeatable-customer-experience/)
+21:55:21	Error: 	"Not Found" (404) at link www.dispatch.154web.com/wp-content/uploads/2020/01/chores-cleaning-contemporary-1321730-1024x665-1.jpg (from https://dispatch.me/better-compliance-and-unbeatable-customer-experience/)
+21:55:22	Warning: 	Moved Permanently for https://dispatch.me/?p=9996
+21:55:22	Warning: 	File has moved from https://dispatch.me/?p=9996 to https://dispatch.me/new-dispatch-schedule-page-with-tech-tracking/
+21:55:23	Error: 	"Not Found" (404) at link www.dispatch.154web.com/wp-content/uploads/2020/01/Screen-Shot-2019-06-06-at-9.38.34-AM-1024x712-1.png (from https://dispatch.me/new-dispatch-schedule-page-with-tech-tracking/)
+21:55:24	Warning: 	Moved Permanently for https://dispatch.me/?p=10216
+21:55:24	Warning: 	File has moved from https://dispatch.me/?p=10216 to https://dispatch.me/dispatch-hires-chief-technology-officer/
+21:55:25	Warning: 	Moved Permanently for https://dispatch.me/?p=9490
+21:55:25	Warning: 	File has moved from https://dispatch.me/?p=9490 to https://dispatch.me/how-home-service-franchises-are-delivering-a-better-last-mile-customer-experience/
+21:55:26	Warning: 	Moved Permanently for https://dispatch.me/?p=10217
+21:55:26	Warning: 	File has moved from https://dispatch.me/?p=10217 to https://dispatch.me/dispatch-and-fieldedge-announce-strategic-partnership/
+21:55:27	Warning: 	Moved Permanently for https://dispatch.me/?p=9278
+21:55:27	Warning: 	File has moved from https://dispatch.me/?p=9278 to https://dispatch.me/how-technology-enables-maximum-output-from-service-pros/
+21:55:29	Error: 	"Not Found" (404) at link www.dispatch.154web.com/wp-content/uploads/2020/01/Home-Service-Revolution-How-Technology-Enables-Maximum-Output-From-Service-Pros-twitter-1-300x158-1.jpg (from https://dispatch.me/how-technology-enables-maximum-output-from-service-pros/)
+21:55:29	Error: 	"Not Found" (404) at link www.dispatch.154web.com/wp-content/uploads/2020/01/Wheel-287x300-1.png (from https://dispatch.me/how-technology-enables-maximum-output-from-service-pros/)
+21:55:29	Warning: 	Moved Permanently for https://dispatch.me/?p=7712
+21:55:29	Warning: 	File has moved from https://dispatch.me/?p=7712 to https://dispatch.me/starting-off-2019-a-review-of-recent-product-updates/
+21:55:29	Warning: 	Moved Permanently for https://dispatch.me/?p=7642
+21:55:29	Warning: 	File has moved from https://dispatch.me/?p=7642 to https://dispatch.me/the-new-best-practices-for-warranty-service-companies/
+21:55:29	Warning: 	Moved Permanently for https://dispatch.me/?p=7626
+21:55:29	Warning: 	File has moved from https://dispatch.me/?p=7626 to https://dispatch.me/october-18-release-notes/
+21:55:29	Warning: 	Moved Permanently for https://dispatch.me/?p=7609
+21:55:29	Warning: 	File has moved from https://dispatch.me/?p=7609 to https://dispatch.me/get-it-right-customer-experience-over-customer-service/
+21:55:29	Warning: 	Moved Permanently for https://dispatch.me/?p=7547
+21:55:29	Warning: 	File has moved from https://dispatch.me/?p=7547 to https://dispatch.me/business-impacts-of-customer-experience/
+21:55:30	Warning: 	Moved Permanently for https://dispatch.me/?p=7539
+21:55:30	Warning: 	File has moved from https://dispatch.me/?p=7539 to https://dispatch.me/what-does-it-mean-to-be-a-customer-centric-oem/
+21:55:32	Warning: 	Moved Permanently for https://dispatch.me/?p=7532
+21:55:32	Warning: 	File has moved from https://dispatch.me/?p=7532 to https://dispatch.me/the-annoying-home-inspection-simplifying-the-tedious-back-and-forth/
+21:55:34	Warning: 	Moved Permanently for https://dispatch.me/?p=7271
+21:55:34	Warning: 	File has moved from https://dispatch.me/?p=7271 to https://dispatch.me/can-you-hold-please-dont-lose-your-millennial-customers/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=7333
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=7333 to https://dispatch.me/25-the-service-knowledge-gap-why-it-matters-and-how-to-close-it/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=7250
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=7250 to https://dispatch.me/millennial-wants-serving-new-homeowner/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=7060
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=7060 to https://dispatch.me/service-model-pivot-selling-product-selling-experience/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=7091
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=7091 to https://dispatch.me/applying-technology-innovation-real-world-service-problems/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=7011
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=7011 to https://dispatch.me/mean-actionable-data/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=6993
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=6993 to https://dispatch.me/dispatch-insights/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=6892
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=6892 to https://dispatch.me/transparent-franchise/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=6795
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=6795 to https://dispatch.me/customer-experience-meets-field-service/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=6805
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=6805 to https://dispatch.me/time-home-service-industry-gets-customer-experience-makeover/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=6404
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=6404 to https://dispatch.me/24-future-machine-learning-ai-field-service/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=6240
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=6240 to https://dispatch.me/delivering-quality-standards-home-service-industry/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=6100
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=6100 to https://dispatch.me/learned-ifa-2018-become-automated-franchise/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=5858
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=5858 to https://dispatch.me/practical-advice-managing-3rd-party-contractors/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=5670
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=5670 to https://dispatch.me/how-mobile-technology-is-driving-quality-experiences/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=5570
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=5570 to https://dispatch.me/how-to-achieve-field-service-excellence-with-your-3rd-party-network/
+21:55:36	Warning: 	Moved Permanently for https://dispatch.me/?p=5456
+21:55:36	Warning: 	File has moved from https://dispatch.me/?p=5456 to https://dispatch.me/23-standardize-customer-experience-franchise/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=5263
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=5263 to https://dispatch.me/22-makes-successful-digital-transformation/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1548
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1548 to https://dispatch.me/the-customer-experience-strategy-from-a-magic-quadrant-leader/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1546
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1546 to https://dispatch.me/20-connecting-customer-experience-business-strategy-justine-jordan-taylor-davis-litmus/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1545
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1545 to https://dispatch.me/augmented-reality-will-change-field-service-industry/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1543
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1543 to https://dispatch.me/big-data-customer-experience-and-loyalty/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1542
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1542 to https://dispatch.me/19-how-to-make-unmemorable-experiences-memorable/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1541
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1541 to https://dispatch.me/18-why-enterprise-customer-experience-begins-with-technology-jamie-smith-servicemaster/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1539
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1539 to https://dispatch.me/17-why-having-a-remote-culture-improves-customer-experience-nick-francis-help-scout/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1538
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1538 to https://dispatch.me/16-why-enterprises-should-focus-on-closing-the-experience-gap/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1536
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1536 to https://dispatch.me/10-ways-the-iot-will-revolutionize-the-field-service-industry/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1535
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1535 to https://dispatch.me/15-creating-customer-loyalty-in-a-mobile-app-world-courtney-austermehle-modo-labs/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1534
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1534 to https://dispatch.me/why-this-unique-marketing-philosophy-creates-loyal-customers/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1533
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1533 to https://dispatch.me/13-the-role-customer-experience-plays-in-the-on-demand-economy/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1532
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1532 to https://dispatch.me/field-service-and-the-internet-of-things-iot/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1531
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1531 to https://dispatch.me/12-has-customer-experience-changed-over-time-ellie-mirman-crayon/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1530
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1530 to https://dispatch.me/11-how-being-customer-focused-helped-build-3-ideapaint-products-jeff-avallon-ideapaint/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1528
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1528 to https://dispatch.me/10-why-great-cx-is-personalized-responsive-and-trustworthy-kristen-craft-ovia-health/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1527
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1527 to https://dispatch.me/9-how-network-reps-can-find-the-signals-from-the-noise/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=794
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=794 to https://dispatch.me/8-why-customer-experience-is-everything-to-smbs-dan-slagen-alignable/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=788
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=788 to https://dispatch.me/7-how-to-achieve-better-customer-experiences-with-machine-learning-brian-bell-jr-datarobot-2/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1526
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1526 to https://dispatch.me/considering-the-hybrid-workforce-ask-yourself-these-5-questions-first/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1524
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1524 to https://dispatch.me/in-the-know-episode-6-what-the-iot-means-for-lead-management/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1522
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1522 to https://dispatch.me/5-how-enterprise-brands-can-be-more-like-amazon/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1521
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1521 to https://dispatch.me/4-what-does-the-on-demand-economy-mean-for-service-businesses/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1523
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1523 to https://dispatch.me/modern-service-experience-the-path-to-better-customer-loyalty/
+21:55:37	Error: 	"Not Found" (404) at link wordpress-test.dispatch.me/wp-content/uploads/2017/07/Customer-loyalty-image-300x158.png (from https://dispatch.me/modern-service-experience-the-path-to-better-customer-loyalty/)
+21:55:37	Error: 	"Not Found" (404) at link wordpress-test.dispatch.me/wp-content/uploads/2017/07/Customer-Loyalty-Image-2-300x158.png (from https://dispatch.me/modern-service-experience-the-path-to-better-customer-loyalty/)
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1520
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1520 to https://dispatch.me/2-the-indicators-of-quality-in-the-service-industry/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1519
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1519 to https://dispatch.me/1-how-enterprises-satisfy-the-modern-day-customer/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1516
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1516 to https://dispatch.me/why-enterprises-need-omnichannel-customer-engagement/
+21:55:37	Error: 	"Not Found" (404) at link wordpress-test.dispatch.me/wp-content/uploads/2017/07/Omnichannel-vs.-Multichannel-300x185.png (from https://dispatch.me/why-enterprises-need-omnichannel-customer-engagement/)
+21:55:37	Error: 	"Not Found" (404) at link wordpress-test.dispatch.me/wp-content/uploads/2017/07/Starbucks-300x185.png (from https://dispatch.me/why-enterprises-need-omnichannel-customer-engagement/)
+21:55:37	Error: 	"Not Found" (404) at link wordpress-test.dispatch.me/wp-content/uploads/2017/07/Sephoria-300x185.png (from https://dispatch.me/why-enterprises-need-omnichannel-customer-engagement/)
+21:55:37	Error: 	"Not Found" (404) at link wordpress-test.dispatch.me/wp-content/uploads/2017/07/Chipotle-300x185.png (from https://dispatch.me/why-enterprises-need-omnichannel-customer-engagement/)
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1515
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1515 to https://dispatch.me/can-narcissism-help-customer-service-departments/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1514
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1514 to https://dispatch.me/customer-spotlight-southern-comfort-hvac/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1513
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1513 to https://dispatch.me/5-star-reviews-9-ways-to-easily-collect-more/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1512
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1512 to https://dispatch.me/customer-spotlight-a-total-plumbing/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=1511
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=1511 to https://dispatch.me/customer-spotlight-erics-appliance-service/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=14752
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=14752 to https://dispatch.me/request-a-demo-hvac/
+21:55:37	Warning: 	Moved Permanently for https://dispatch.me/?p=14753
+21:55:37	Warning: 	File has moved from https://dispatch.me/?p=14753 to https://dispatch.me/request-a-demo-appliances/
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/2/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/3/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/4/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/5/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/6/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/7/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/8/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/9/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/10/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/11/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/scott-rudberg/page/12/ (from https://dispatch.me/author/scott-rudberg/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/2/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/3/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/4/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/5/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/6/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/7/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/8/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/9/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/10/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/11/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/adam-saba/page/12/ (from https://dispatch.me/author/adam-saba/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/2/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/3/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/4/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/5/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/6/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/7/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/8/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/9/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/10/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/11/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/patrick-burns/page/12/ (from https://dispatch.me/author/patrick-burns/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/2/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/3/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/4/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/5/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/6/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/7/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/8/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/9/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/10/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/11/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/matt-edelman/page/12/ (from https://dispatch.me/author/matt-edelman/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/2/ (from https://dispatch.me/author/ryan-leech/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/3/ (from https://dispatch.me/author/ryan-leech/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/4/ (from https://dispatch.me/author/ryan-leech/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/5/ (from https://dispatch.me/author/ryan-leech/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/6/ (from https://dispatch.me/author/ryan-leech/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/7/ (from https://dispatch.me/author/ryan-leech/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/8/ (from https://dispatch.me/author/ryan-leech/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/9/ (from https://dispatch.me/author/ryan-leech/)
+21:55:37	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/10/ (from https://dispatch.me/author/ryan-leech/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/11/ (from https://dispatch.me/author/ryan-leech/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/ryan-leech/page/12/ (from https://dispatch.me/author/ryan-leech/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/2/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/3/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/4/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/5/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/6/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/7/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/8/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/9/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/10/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/11/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/avi-goldberg/page/12/ (from https://dispatch.me/author/avi-goldberg/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/2/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/3/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/4/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/5/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/6/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/7/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/8/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/9/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/10/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/11/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/charlie-hadlow/page/12/ (from https://dispatch.me/author/charlie-hadlow/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/2/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/3/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/4/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/5/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/6/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/7/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/8/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/9/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/10/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/11/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/bella-caballero/page/12/ (from https://dispatch.me/author/bella-caballero/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/2/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/3/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/4/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/5/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/6/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/7/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/8/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/9/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/10/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/11/ (from https://dispatch.me/author/geoffrey-palmer/)
+21:55:38	Error: 	"Not Found" (404) at link https://dispatch.me/author/geoffrey-palmer/page/12/ (from https://dispatch.me/author/geoffrey-palmer/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 58 seconds : 1641 links scanned, 1310 files written (166881003 bytes overall) [142613129 bytes received at 216737 bytes/sec], 49009632 bytes transferred using HTTP compression in 958 files, ratio 24%, 38.7 requests per connection
+(182 errors, 296 warnings, 0 messages)
